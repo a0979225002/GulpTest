@@ -29,7 +29,7 @@ function cleanAssetFramework(cb) {
 }
 
 /**
- * 构建资源框架
+ * 構建資源框架
  */
 function buildAssetTemplate(cb) {
     if (fs.existsSync('Template')) {
@@ -76,7 +76,7 @@ function buildAssetTemplate(cb) {
 
 
 /**
- * 构建资源框架
+ * 構建資源框架
  */
 function buildPublishTemplate(cb) {
     if (fs.existsSync('Template')) {
