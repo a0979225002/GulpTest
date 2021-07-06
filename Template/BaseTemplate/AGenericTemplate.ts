@@ -5,7 +5,6 @@
      * @Version 1.1
      */
 import OverrideComponent from "./OverrideComponent";
-
 export default abstract class AGenericTemplate extends OverrideComponent {
 
         /**
