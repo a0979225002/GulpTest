@@ -28,8 +28,6 @@ import ts from "rollup-plugin-ts";
 //             dir:"dist/tcc",
 //             exports:"auto",
 //             sourcemap:true,
-//             debug:true,
-//
 //         },
 //         plugins:[
 //             ts({
