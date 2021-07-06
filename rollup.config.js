@@ -7,14 +7,15 @@ import ts from "rollup-plugin-ts";
 export default {
     input: ['Template/index.ts'],
     output: {
-        dir: "dist/tcc",
+        file:'dist/Test/Test.js',
         exports: "auto",
+        format:'es',
         sourcemap: true,
     },
     plugins: [
         ts({
             tsconfig: "tsconfig.json",
-            declarationStats: declarationStats => console.log(declarationStats)
+
         }),
     ]
 }

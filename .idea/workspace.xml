@@ -3,6 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="de91c220-b61d-42e3-a73b-700b8dca7592" name="默认变更列表" comment="提交">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Template/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/Template/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Test/Test.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Test/Test.d.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/Test/Test.js" beforeDir="false" afterPath="$PROJECT_DIR$/dist/Test/Test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tcc/index.d.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tcc/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/tcc/index.js.map" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/rollup.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/rollup.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +70,7 @@
       <option name="presentableId" value="Default" />
       <updated>1625461576166</updated>
       <workItem from="1625461577259" duration="244000" />
-      <workItem from="1625461847634" duration="20620000" />
+      <workItem from="1625461847634" duration="21617000" />
     </task>
     <task id="LOCAL-00001" summary="無用檔案清空">
       <created>1625463166723</created>
@@ -101,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1625537929213</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="提交">
+      <created>1625538453493</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1625538453493</updated>
+    </task>
+    <task id="LOCAL-00007" summary="提交">
+      <created>1625538465217</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1625538465217</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
